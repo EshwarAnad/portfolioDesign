@@ -87,6 +87,7 @@ footer ul > li {
     background-color: #e0e0e4;
 }
 #welcome-section {
+    margin-top: 0;
     position: relative;
     display: flex;
     justify-content: center;
